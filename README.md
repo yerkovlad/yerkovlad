@@ -1,20 +1,17 @@
-<h1 align="center">Привет! 👋, Я [Ваше Имя]</h1>
-<h3 align="center">Junior программист и трейдер, увлеченный веб-разработкой и машинным обучением</h3>
+<h1 align="center">Привет! 👋, Я Влад</h1>
+<h3 align="center">Junior программист, увлеченный веб-разработкой и машинным обучением</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ваше_имя&label=Profile%20views&color=0e75b6&style=flat" alt="ваше_имя" /> </p>
 
-- 🔭 Сейчас работаю над [Проектом](ссылка на проект)
 - 🌱 Изучаю **машинное обучение и анализ данных**
-- 👯 Ищу сотрудничество на **Django/Flask проектах**
-- 🤝 Ищу помощь с **TensorFlow проектами**
-- 💬 Спрашивайте меня о **Python, C++, Django, Flask, TensorFlow**
-- 📫 Связаться со мной: **ваш_email@example.com**
-- ⚡ Интересный факт: **Я также увлекаюсь трейдингом!**
+- 👯 Пишу проекты на **Django/Flask**
+- 🤝 Имеют опыт с **TensorFlow проектами**
+- 💬 Знаю почти все о **Python, C++, Django, Flask, TensorFlow**
+- 📫 Связаться со мной: **yerkovlad@gmail.com**
 
 <h3 align="left">Подключитесь со мной:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ваш_профиль" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ваш_профиль" height="30" width="40" /></a>
-<a href="https://t.me/ваш_ник" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ваш_ник" height="30" width="40" /></a>
+<a href="https://t.me/yevlad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="yevlad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
