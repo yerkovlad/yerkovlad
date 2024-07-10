@@ -1,7 +1,7 @@
 <h1 align="center">Привет! 👋, Я Влад</h1>
 <h3 align="center">Junior программист, увлеченный веб-разработкой и машинным обучением</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ваше_имя&label=Profile%20views&color=0e75b6&style=flat" alt="ваше_имя" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yerkovlad&label=Profile%20views&color=0e75b6&style=flat" alt="yerkovlad" /> </p>
 
 - 🌱 Изучаю **машинное обучение и анализ данных**
 - 👯 Пишу проекты на **Django/Flask**
@@ -9,9 +9,9 @@
 - 💬 Знаю почти все о **Python, C++, Django, Flask, TensorFlow**
 - 📫 Связаться со мной: **yerkovlad@gmail.com**
 
-<h3 align="left">Подключитесь со мной:</h3>
+<h3 align="left">Contact me</h3>
 <p align="left">
-<a href="https://t.me/yevlad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="yevlad" height="30" width="40" /></a>
+<a href="https://t.me/yevlad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yevlad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
