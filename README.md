@@ -5,8 +5,8 @@
 
 - 🌱 I study **machine learning and data analysis**
 - 👯 I write projects on **Django/Flask/FastAPI**
-- 🤝 Have experience with **TensorFlow projects**
-- 💬 I know almost everything about **Python, C++, Django, Flask, TensorFlow**
+- 🤝 Have experience with **TensorFlow/Keras projects**
+- 💬 I know almost everything about **Python, C++, Django, Flask, TensorFlow/Keras**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
