@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yerkovlad&label=Profile%20views&color=0e75b6&style=flat" alt="yerkovlad" /> </p>
 
 - 🌱 I study **machine learning and data analysis**
-- 👯 I write projects on **Django/Flask**
+- 👯 I write projects on **Django/Flask/FastAPI**
 - 🤝 Have experience with **TensorFlow projects**
 - 💬 I know almost everything about **Python, C++, Django, Flask, TensorFlow**
 
