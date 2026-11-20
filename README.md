@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Native+macOS+apps+in+Swift+%26+AppKit;Backends+and+bots+in+Python;Networking%2C+VPNs%2C+VLESS+%2F+Reality;Arch+Linux+user+btw" alt="typing" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Native+macOS+apps+in+Swift+%26+AppKit;Backends+and+bots+in+Python;Networking%2C+VPNs%2C+VLESS+%2F+Reality" alt="typing" /></a>
 </p>
 
 <p align="center">
