@@ -1,27 +1,77 @@
-<h1 align="center">Hi! 👋, I am Vlad</h1>
-<h3 align="center">Junior programmer, passionate about web development and machine learning</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yerkovlad&label=Profile%20views&color=0e75b6&style=flat" alt="yerkovlad" /> </p>
-
-- 🌱 I study **machine learning and data analysis**
-- 👯 I write projects on **Django/Flask/FastAPI**
-- 🤝 Have experience with **TensorFlow/Keras projects**
-- 💬 I know almost everything about **Python, C++, Django, Flask, TensorFlow/Keras**
-
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://t.me/yevlad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yevlad_lolz" height="30" width="40" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfmrfWTDsVMGSfnJnRflxbjFsntNGdjCscFqqTwXNlCJbztnJwqlPNNHTGXhQrTgGQGtDB" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="yerkovlad" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3d59a1&height=180&section=header&text=Hi%2C%20I%27m%20Vlad&fontColor=c0caf5&fontSize=44&fontAlignY=35&desc=macOS%20%C2%B7%20Python%20%C2%B7%20Backend&descAlignY=55&descSize=16" width="100%" alt="header" />
 </p>
 
-<h3 align="left">Languages ​​and tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Native+macOS+apps+in+Swift+%26+AppKit;Backends+and+bots+in+Python;Networking%2C+VPNs%2C+VLESS+%2F+Reality;Arch+Linux+user+btw" alt="typing" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yerkovlad&" alt="yerkovlad" /></p>
+<p align="center">
+  <a href="https://t.me/yevlad"><img src="https://img.shields.io/badge/Telegram-@yevlad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yerkovlad&label=Profile%20views&color=3d59a1&style=for-the-badge" alt="views" />
+</p>
+
+<br>
+
+## 🛠 Tech stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=swift,python,cpp,bash&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Apple</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=apple&theme=dark" />
+      <img src="https://img.shields.io/badge/AppKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite,postgres&theme=dark" />
+      <img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Desktop & Net</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=qt&theme=dark" />
+      <img src="https://img.shields.io/badge/xray--core-1a1b27?style=for-the-badge&logo=v&logoColor=white" />
+      <img src="https://img.shields.io/badge/VLESS_%2F_Reality-3d59a1?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,aws,vscode&theme=dark" /></td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yerkovlad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerkovlad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yerkovlad&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yerkovlad&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:1a1b27&height=110&section=footer" width="100%" alt="footer" />
+</p>
